@@ -1,0 +1,2 @@
+/auto/users/vis15bl/DatabaseSystemImplementation/HeapPage-bin/CMakeFiles/minibase-heappage.dir
+/auto/users/vis15bl/DatabaseSystemImplementation/HeapPage-bin/spacemgr/CMakeFiles/spacemgr.dir
